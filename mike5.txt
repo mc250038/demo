@@ -1,4 +1,3 @@
-mike1.txt  mike2.txt  mike3.txt  mike4.txt  mike5.txt
  Volume in drive C is OS
  Volume Serial Number is 8A12-BA2C
 
